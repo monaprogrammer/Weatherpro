@@ -11,3 +11,5 @@ class Weatherapi(models.Model):
        return self.city
 
 
+class Weatherapp():
+    pass
