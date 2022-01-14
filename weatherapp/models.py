@@ -13,3 +13,6 @@ class Weatherapi(models.Model):
 
 class Weatherapp():
     pass
+
+class Weatherapptest():
+    pass
